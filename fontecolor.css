@@ -1,0 +1,9 @@
+h1{color: red;
+text-align: center;}
+h1 {text-transform: uppercase;
+}
+p {
+    color: green;
+}
+p::first-letter{
+    font-size: 70px;}
